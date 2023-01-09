@@ -1,2 +1,0 @@
-# Clock
-HTML, CSS, JS
